@@ -1,0 +1,217 @@
+[
+  {
+    "id": "classic-westerns-1930-1979-import",
+    "title": "Classic Westerns (1930 to 1979)",
+    "folders": [
+      {
+        "id": "classic-westerns-1930s-1940s",
+        "title": "1930s and 1940s Westerns",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "1930s and 1940s Westerns",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 1,
+              "releaseDateGte": "1930-01-01",
+              "releaseDateLte": "1949-12-31"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg"
+      },
+      {
+        "id": "classic-westerns-1950s",
+        "title": "1950s Westerns",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "1950s Westerns",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 1,
+              "releaseDateGte": "1950-01-01",
+              "releaseDateLte": "1959-12-31"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg"
+      },
+      {
+        "id": "classic-westerns-1960s",
+        "title": "1960s Westerns",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "1960s Westerns",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 1,
+              "releaseDateGte": "1960-01-01",
+              "releaseDateLte": "1969-12-31"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg"
+      },
+      {
+        "id": "classic-westerns-1970s",
+        "title": "1970s Westerns",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "1970s Westerns",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 1,
+              "releaseDateGte": "1970-01-01",
+              "releaseDateLte": "1979-12-31"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg"
+      },
+      {
+        "id": "classic-westerns-top",
+        "title": "Top Rated Classic Westerns",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Top Rated Classic Westerns",
+            "sortBy": "vote_average.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 30,
+              "releaseDateGte": "1930-01-01",
+              "releaseDateLte": "1979-12-31"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "MOVIE",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg"
+      },
+      {
+        "id": "classic-westerns-tv",
+        "title": "Classic Western TV Series",
+        "sources": [
+          {
+            "type": null,
+            "genre": null,
+            "title": "Classic Western TV Series",
+            "sortBy": "popularity.desc",
+            "tmdbId": null,
+            "addonId": null,
+            "filters": {
+              "withGenres": "37",
+              "voteCountGte": 1,
+              "releaseDateGte": "1950-01-01",
+              "releaseDateLte": "1979-12-31"
+            },
+            "sortHow": null,
+            "provider": "tmdb",
+            "catalogId": null,
+            "mediaType": "TV",
+            "traktListId": null,
+            "tmdbSourceType": "DISCOVER"
+          }
+        ],
+        "hideTitle": false,
+        "tileShape": "LANDSCAPE",
+        "coverEmoji": null,
+        "focusGifUrl": null,
+        "coverImageUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg",
+        "catalogSources": [],
+        "focusGifEnabled": false,
+        "heroBackdropUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg"
+      }
+    ],
+    "pinToTop": false,
+    "viewMode": "TABBED_GRID",
+    "showAllTab": true,
+    "backdropImageUrl": "https://raw.githubusercontent.com/izlemeli/nuvio/refs/heads/main/collections/x/genres-western.jpg",
+    "focusGlowEnabled": true
+  }
+]
